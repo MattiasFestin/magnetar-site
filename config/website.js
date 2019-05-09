@@ -13,13 +13,13 @@ module.exports = {
   siteDescription: 'Information site about the company magnetar',
   author: 'magnetar', // Author for schema.org JSONLD
 
-  // siteFBAppID: '123456789', // Facebook App ID - Optional
-  userTwitter: '@cara', // Twitter Username
-  ogSiteName: 'cara', // Facebook Site Name
+  siteFBAppID: '446989362527881', // Facebook App ID - Optional
+  userTwitter: '@WeAreMagnetar', // Twitter Username
+  ogSiteName: 'WeAreMagnetar', // Facebook Site Name
   ogLanguage: 'en_US', // Facebook Language
   googleAnalyticsID: 'UA-35874527-3',
 
   // Manifest and Progress color
-  themeColor: tailwind.colors.orange,
-  backgroundColor: tailwind.colors.blue
+  themeColor: '#6c63ff',
+  backgroundColor: '#2017B3'
 };
