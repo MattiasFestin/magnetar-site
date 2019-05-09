@@ -37,6 +37,12 @@ const GlobalStyle = createGlobalStyle`
   top: calc(50% - 110px);
 }
 
+@media (max-width: 1200px) {
+  .wrap {
+    display: none;
+  }
+}
+
 .magnetar {
   animation: spin ${animSpeed} linear infinite;
   background: ${colorMain};

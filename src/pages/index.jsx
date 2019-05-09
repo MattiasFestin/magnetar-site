@@ -66,7 +66,7 @@ const Index = () => (
 			params={{
 				particles: {
 					number: {
-						value: 150,
+						value: Math.round(window.innerWidth * .2),
 						density: {
 							enable: true,
 							value_area: 800
