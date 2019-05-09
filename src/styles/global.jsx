@@ -40,7 +40,7 @@ const GlobalStyle = createGlobalStyle`
 .magnetar {
   animation: spin ${animSpeed} linear infinite;
   background: ${colorMain};
-  opacity: .5;
+  opacity: .25;
   box-shadow: 50px 10px 29px 0px rgba(108, 99, 255, 0.6), -50px -10px 29px 0px rgba(133, 15, 107, 0.6);
   border-radius: 50%;
   position: absolute;
