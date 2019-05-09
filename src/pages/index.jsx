@@ -163,7 +163,7 @@ const Index = () => (
 						link="https://www.inferen.se"
 						bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
 					>
-						Data analsis and automation SaaS app.
+						Data analysis and automation SaaS app.
 					</ProjectCard>
 				</ProjectsWrapper>
 			</Projects>
