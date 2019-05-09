@@ -141,6 +141,19 @@ const Index = () => (
 					Hello, <br /> we are Magnetar.
 				</BigTitle>
 				<Subtitle>We develop software that solves complex problems.</Subtitle>
+				<div class="wrap">  
+					<div class="magnetar"></div>
+					<div class="pulse pulse-1"></div>
+					<div class="pulse pulse-2"></div>
+					<div class="pulse pulse-3"></div>
+					<div class="pulse pulse-4"></div>
+					<div class="pulse pulse-5"></div>
+					<div class="pulse pulse-6"></div>
+					<div class="pulse pulse-7"></div>
+					<div class="pulse pulse-8"></div>
+					<div class="pulse pulse-9"></div>
+					<div class="pulse pulse-10"></div>
+				</div>
 			</Hero>
 			<Projects offset={1}>
 				<Title>Projects</Title>
